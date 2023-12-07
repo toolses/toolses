@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @toolses and I'm currently the CTO @ Axess Digital
-- 👀 I’m interested in React, Angular, C++, WebAssembly and more!
+- 👋 Hi, I’m @toolses and I'm currently working as a Technical Lead for Sticos AS in Norway
+- 👀 I’m interested in React, Angular, C++, WebAssembly, WebAPI, .NetCore and more!
 - 📫 How to reach me
       - https://www.linkedin.com/in/tor-erik-sm%C3%B8rholm-saltnes-a2a1412/
 
